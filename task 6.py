@@ -1,5 +1,5 @@
 keywords = ('for', 'if', 'else', 'in', ':')
-indent = '    '  # 4 пробіли = 1 відступ
+indent = '    '
 
 print(keywords[0] + " each token " + keywords[3] + " the postfix expression " + keywords[4])
 print(indent + keywords[1] + " the token is a number " + keywords[4])
